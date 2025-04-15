@@ -1,0 +1,8 @@
+First Name: Elia
+Last Name: Arriola
+Integer #1: 99999999
+Integer #2: -999999999
+Adding Result: -900000000
+Multiply Result: -99999998900000001
+Input File Contents:
+THIS IS THE CONTENT OF THE INPUT FILE. TEST INPUT FILE

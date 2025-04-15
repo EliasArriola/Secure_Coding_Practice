@@ -1,0 +1,8 @@
+First Name: Elias
+Last Name: Arriola
+Integer #1: -2147483648
+Integer #2: -2147483648
+Adding Result: -4294967296
+Multiply Result: 4611686018427387904
+Input File Contents:
+Joe Mama
